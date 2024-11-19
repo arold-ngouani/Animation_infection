@@ -252,7 +252,10 @@ function draw() {
 }
 
 //---------------FONCTION OUTILS---------------
+
+/*
 function keyPressed() {
+//function qui fait une action quand on a appuis sur une touche du clavier
 
     if(key == ' ' && !injected) {
 
@@ -269,6 +272,8 @@ function keyPressed() {
         ); 
     }
 }
+
+*/
 
 
 function drawBg() {
